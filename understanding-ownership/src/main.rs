@@ -1,6 +1,7 @@
 fn main() {
     move_vs_clone();
     ownership_and_functions();
+    return_values_and_scope();
 }
 
 fn return_values_and_scope() {
